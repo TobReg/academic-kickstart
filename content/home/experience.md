@@ -33,12 +33,42 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Assistant Professor"
+  company = "University of Jena"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  location = "Germany"
+  date_start = "2015-01-01"
+  date_end = "2016-09-30"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+
+[[experience]]
+  title = "Senior Research Fellow"
+  company = "Max Planck Institute of Economics, Jena"
+  company_url = ""
+  location = "Germany"
+  date_start = "2015-01-01"
+  date_end = "2014-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+
+[[experience]]
+  title = "Assistant Professor"
+  company = "University of Jena"
+  company_url = ""
+  location = "Germany"
+  date_start = "2006-10-01"
+  date_end = "2008-09-30"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+
+[[experience]]
+  title = "Research Associate"
+  company = "Imperial College London"
+  company_url = ""
+  location = "United Kingdom"
+  date_start = "2004-07-01"
+  date_end = "2006-09-30"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
