@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Germany"
   date_start = "2016-10-01"
   date_end = ""
-  description = "Research project "Crowdfunding: an alternative financing option for entrepreneurs and creators?" financed by the DFG"
+  description = """Research project 'Crowdfunding: an alternative financing option for entrepreneurs and creators?' financed by the DFG"""
   Responsibilities include:
   
   * Analysing
