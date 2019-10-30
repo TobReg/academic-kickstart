@@ -24,6 +24,7 @@ date_format = "Jan 2006"
   location = "Germany"
   date_start = "2016-10-01"
   date_end = ""
+  description = """
   Responsibilities include:
   
   * Analysing
