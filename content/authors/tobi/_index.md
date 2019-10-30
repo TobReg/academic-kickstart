@@ -15,23 +15,23 @@ role: Principal Investigator
 # Organizations/Affiliations
 organizations:
 - name: University of Jena
-  url: ""
+  url: "www.uni-jena.de"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include behavioral/experimental economics and crowdfunding.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Behavioral economics
+- Experimental economics
+- Crowdfunding and e-commerce
 
 education:
   courses:
   - course: PhD in Economics
-    institution: University of Bristol
+    institution: University of Bristol, UK
     year: 2004
   - course: Diploma in Economics
-    institution: University of Munich
+    institution: University of Munich, Germany
     year: 2000
 
 # Social/Academic Networking
@@ -42,9 +42,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=F3f2vmYAAAAJ

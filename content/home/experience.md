@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Germany"
   date_start = "2016-10-01"
   date_end = ""
-  description = """
+  description = "Research project "Crowdfunding: an alternative financing option for entrepreneurs and creators?" financed by the DFG"
   Responsibilities include:
   
   * Analysing
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "Germany"
   date_start = "2015-01-01"
   date_end = "2016-09-30"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Taught game theory and empirical methods."""
 
 
 [[experience]]
@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   location = "Germany"
   date_start = "2015-01-01"
   date_end = "2014-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+#  description = """Taught electronic engineering and researched semiconductor physics."""
 
 
 [[experience]]
@@ -59,7 +59,7 @@ date_format = "Jan 2006"
   location = "Germany"
   date_start = "2006-10-01"
   date_end = "2008-09-30"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+#  description = """Taught electronic engineering and researched semiconductor physics."""
 
 
 [[experience]]
@@ -69,6 +69,6 @@ date_format = "Jan 2006"
   location = "United Kingdom"
   date_start = "2004-07-01"
   date_end = "2006-09-30"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+#  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
