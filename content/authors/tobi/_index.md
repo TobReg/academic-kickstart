@@ -15,7 +15,7 @@ role: Principal Investigator
 # Organizations/Affiliations
 organizations:
 - name: University of Jena
-  url: "www.uni-jena.de"
+  url: "http://www.uni-jena.de"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include behavioral/experimental economics and crowdfunding.

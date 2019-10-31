@@ -47,8 +47,17 @@ date_format = "Jan 2006"
   company = "Max Planck Institute of Economics, Jena"
   company_url = ""
   location = "Germany"
-  date_start = "2015-01-01"
+  date_start = "2013-01-01"
   date_end = "2014-12-31"
+#  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Research Fellow"
+  company = "Max Planck Institute of Economics, Jena"
+  company_url = ""
+  location = "Germany"
+  date_start = "2008-10-01"
+  date_end = "2012-12-31"
 #  description = """Taught electronic engineering and researched semiconductor physics."""
 
 
