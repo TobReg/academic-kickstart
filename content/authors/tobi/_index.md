@@ -45,12 +45,12 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=F3f2vmYAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/TobReg
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/3188775/tobias-regner/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/TobReg
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
