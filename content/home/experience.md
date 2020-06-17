@@ -24,12 +24,7 @@ date_format = "Jan 2006"
   location = "Germany"
   date_start = "2016-10-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  description = """Research project “Crowdfunding: an alternative financing option for entrepreneurs and creators?” financed by, Deutsche Forschungsgemeinschaft, project number 628902
   """
 
 [[experience]]

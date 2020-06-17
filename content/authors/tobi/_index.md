@@ -24,6 +24,7 @@ interests:
 - Behavioral economics
 - Experimental economics
 - Crowdfunding and e-commerce
+- Machine Learning
 
 education:
   courses:
