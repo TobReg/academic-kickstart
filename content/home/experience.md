@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Assistant Professor"
+  title = "Associate Professor"
   company = "University of Jena"
   company_url = ""
   location = "Germany"
