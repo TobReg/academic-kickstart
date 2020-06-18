@@ -1,7 +1,7 @@
 ---
 title: "Determinants of in-group bias: Is group affiliation mediated by guilt-aversion?"
 date: 2009-01-01
-publishDate: 2020-06-17T11:14:31.756727Z
+publishDate: 2020-06-18T09:59:44.171129Z
 authors: ["Werner Güth", "Matteo Ploner", "Tobias Regner"]
 publication_types: ["2"]
 abstract: "In-group favoritism in social dilemma situations is one of Social Identity Theory’s main findings. We investigate what causes the in-group bias: is it merely due to group affiliation or, alternatively, is guilt-aversion moderating the strength of in-group favoring? We induce group membership in a minimal group setting, observe in-/out-group transfers and elicit corresponding beliefs. According to our experimental data group affiliation affects beliefs and explains a substantial part of the bias. Evidence for guilt-aversion is found only when beliefs are elicited before actions."
