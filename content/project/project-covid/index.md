@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Crowdfunding: an alternative financing option for entrepreneurs and creators?"
-summary: "My research project is financed by the DFG. Here's an overview of the project's output so far:"
+title: "Covid-19's R across Germany over time"
+summary: "A little project based on the work of Kevin Systrom to visualize dynamics of the outbreak on a regional level."
 authors: ["Tobias Regner"]
-tags: ["crowdfunding", "entrepreneurial finance", "donations", "reward levels", "identity", "self-image", "social-image"]
+tags: ["Corona", "Bayesian updating", "Covid-19"]
 categories: []
-date: 2019-10-31T12:11:59+01:00
+date: 2019-11-01T17:12:55+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/TobReg/covid-19/blob/master/Covid-19's%20R%20across%20Germany%20over%20time.ipynb"
 url_pdf: ""
 url_slides: ""
 url_video: ""
