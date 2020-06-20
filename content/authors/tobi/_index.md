@@ -69,10 +69,3 @@ user_groups:
 ---
 
 I am a social scientist working with data. My core research interest is pro-social behavior. I study its underlying motivations (e.g. reciprocity, moral emotions, self-, and social-image concerns) as well as its potential for improving market allocations. Crowdfunding, a recently emerged alternative funding channel for entrepreneurial activities, is a particular focus of mine. For my analysis I employ laboratory or field experiments as well as big data sets from online sources.
-
-# As a behavioural economist I am intrigued by all aspects of behaviour that standard neoclassical 
-# economics fails to explain. My core interest is pro-social behaviour. From a theoretical perspective I 
-# strive to shed more light on the actual drivers of pro-social behaviour. I am interested in modelling 
-# approaches that go beyond a mere focus on outcomes, by considering motivations like reciprocity, 
-# moral emotions, self-, and social-image concerns. On a more applied level I am interested in ways pro-
-# social behaviour can have a positive impact in actual markets, especially electronic ones.
