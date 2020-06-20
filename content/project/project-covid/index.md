@@ -29,7 +29,7 @@ image:
 
 url_code: "https://github.com/TobReg/covid-19/blob/master/Covid-19's%20R%20across%20Germany%20over%20time.ipynb"
 url_pdf: ""
-url_slides: ""
+url_slides: "https://nbviewer.jupyter.org/github/TobReg/covid-19/blob/master/Covid-19%27s%20R%20across%20Germany%20over%20time.ipynb"
 url_video: ""
 
 # Slides (optional).
