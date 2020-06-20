@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Crowdfunding: an alternative financing option for entrepreneurs and creators?"
-summary: "My research project is financed by the DFG. Here's an overview of the project's output so far:"
+summary: "My research project financed by Deutsche Forschungsgemeinschaft (DFG)."
 authors: ["Tobias Regner"]
 tags: ["crowdfunding", "entrepreneurial finance", "donations", "reward levels", "identity", "self-image", "social-image"]
 categories: []
